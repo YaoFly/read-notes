@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JvmNotes/JvmNotes.iml" filepath="$PROJECT_DIR$/JvmNotes/JvmNotes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadNotes.iml" filepath="$PROJECT_DIR$/ReadNotes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnixNetworkNotes/UnixNetworkNotes.iml" filepath="$PROJECT_DIR$/UnixNetworkNotes/UnixNetworkNotes.iml" />
+    </modules>
+  </component>
+</project>
