@@ -35,3 +35,6 @@
 * JSON or XML 还是其他
 * 基于HTTP的REST的缺点，对于低延迟或较小的消息尺寸的场景，HTTP的封装开销可能是个问题，考虑TCP,WebSocket,UDP
 
+### 分解单块系统
+
+
